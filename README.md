@@ -1,4 +1,4 @@
 ### Grade-Calculator
 ```
-A program to calculate final grades in my C++ class from raw assignment scores.
+This program calculated my final grade in my C++ class from raw assignment scores.
 ```
